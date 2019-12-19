@@ -20,7 +20,7 @@ body {
   border-radius: 8px;
 }
 .header a.logo {
-  font-size: 20px;
+  font-size: 25px;
   font-weight: bold;
 }
 
@@ -33,11 +33,11 @@ body {
 /* Style the active/current link*/
 .header a.active {
   background-color: dodgerblue;
-  color: white;
+  color:pink;
 }
 
 /* Float the link section to the right */
-.header-left {
+.header-right {
   float: left;
 }
 

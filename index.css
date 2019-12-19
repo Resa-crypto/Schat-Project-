@@ -4,14 +4,14 @@ body {
 }
 .header {
   overflow: hidden;
-  background-color: black;
+  background-color: transparent;
   padding: 20px 10px;
 }
 
 /* Style the header links */
 .header a {
   float: left;
-  color: black;
+  color: transparent;
   text-align: center;
   padding: 12px;
   text-decoration: none;
@@ -27,7 +27,7 @@ body {
 /* Change the background color on mouse-over */
 .header a:hover {
   background-color: none;
-  color: black;
+  color: transparent;
 }
 
 /* Style the active/current link*/
